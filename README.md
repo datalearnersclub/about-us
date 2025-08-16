@@ -1,4 +1,4 @@
-# Data Learners Club – Pakistan
+# Data Learners Club 
 
 👥 **Members**
 - Jawad  (Student Developer)
